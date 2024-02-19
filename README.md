@@ -20,8 +20,9 @@ pip install matplotlib
 
 4. **survey_results_schema.csv**:  CSV file with survey schema, i.e., the questions that correspond to each column name
 
-5. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions, usage guidelines, and other relevant information.
-
+5. **so_survey_2023.pdf**: PDF file give details about Stack Overflow 2023 Developer Survey
+   
+6. **README.md**: This is the README file for our project. It provides an overview of the project, installation instructions, usage guidelines, and other relevant information.
 
 ## Licensing
 [Data Source](https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2023-developers-survey?select=so_survey_2023.pdf)
