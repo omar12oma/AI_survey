@@ -1,4 +1,4 @@
-# AI_survey
+# Developers_And_AI
 
 In this project we will look at Stack Overflow 2023 Developer Survey and developers opinion about using AI tools.
 
